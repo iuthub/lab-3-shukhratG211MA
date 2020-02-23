@@ -1,0 +1,62 @@
+.green{
+	overflow: hidden;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: white;
+	border: 10px white solid
+}
+body{
+	background-image: url('images/2.jpg');
+	background-repeat: no-repeat;
+
+}
+.red {
+	background-color: #A8F0F0;
+	float: right;
+	width: 100%;
+	border-bottom: 10px white solid;
+
+}
+.red h2{
+	font-size: 14pt;
+}
+
+.friends{
+	padding: 5px;
+	float: left;
+	width: 15%;
+	background-color: #E8FBFB;
+	border: 4px #C2E9E9 solid;
+}
+
+.blue1{
+	width: 80%;
+	float: right;
+	padding: 10px;
+	background-color: #E8FBFB;
+	border: 4px #C2E9E9 solid;
+}
+.blue1 img{
+	float: right;
+	width: 130px;
+	height: 130px;
+}span.purple{
+	border-bottom: 2px blue dashed
+}
+p:hover,a:hover,h2:hover,h1:hover,img:hover{/*I cannot find the way without commas*/
+	background-color: yellow;
+}
+.blue2{
+	width: 80%;
+	float: right;
+	overflow: hidden;
+	margin-top: 10px;
+	padding: 10px;
+	background-color: #E8FBFB;
+	border: 4px #C2E9E9 solid;
+}
+.blue2 img{
+	float: right;
+	width: 170px;
+	height: 150px;
+}
